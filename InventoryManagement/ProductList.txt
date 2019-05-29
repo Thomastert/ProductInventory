@@ -1,0 +1,4 @@
+5 = price / chocolate = name / 2 = amount / 
+4 = price / milk = name / 2 = amount / 
+9.40 = price / wheel of cheese = name / 4 = amount / 
+3 = price / mils = name / 4 = amount / 

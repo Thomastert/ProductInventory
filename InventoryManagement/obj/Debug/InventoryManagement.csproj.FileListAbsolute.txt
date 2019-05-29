@@ -1,0 +1,14 @@
+D:\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+D:\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+D:\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+D:\projects\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\projects\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\projects\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\projects\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+D:\projects\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\projects\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+D:\projects\c#practis\rapidfire\ProductInventory\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
